@@ -1,5 +1,5 @@
 # to github:
-# PLEASE DONT DMCA THIS REPOSITORY, NO GAME ASSETS OR INTELLECTUAL PROPERTY IS HOSTED HERE, ALL FILES HERE ARE MADE, AND CODED BY,(genizy/breadbb)
+# PLEASE DONT DMCA THIS REPOSITORY, NO GAME ASSETS OR INTELLECTUAL PROPERTY IS HOSTED HERE, ALL FILES HERE ARE MADE, AND CODED BY, (genizy/breadbb)
 
 # gn-math.github.io
 gn-math is the best unblocked games site to play at school.
@@ -29,5 +29,3 @@ gn-math is the best unblocked games site to play at school.
 - custom software to get almost ANY game
 
 JOIN OUR DISCORD: https://discord.gg/NAFw4ykZ7n
-
-I DID NOT MAKE Gn-Math THIS IS SIMPLY JUST A BLUE RESKIN
